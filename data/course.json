@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2003",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ]
+  ],
+  "legacy_uid": "72d6ed2a-30b9-7174-8d15-8080535af7b5",
+  "instructors": {
+    "content": [
+      "046aa619-7675-b109-3301-94a8c1238e3f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e30d6871-0cba-613d-49cb-f410d7f84297",
+    "website": "18-443-statistics-for-applications-fall-2003"
+  },
+  "course_title": "Statistics for Applications",
+  "course_description": "This course provides a broad treatment of statistics, concentrating on specific statistical techniques used in science and industry. The course topics include hypothesis testing and estimation. It also includes confidence intervals, chi-square tests, nonparametric statistics, analysis of variance, regression, and correlation.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.650 (formerly 18.443)",
+  "course_image_thumbnail": {
+    "content": "2b441811-13b9-fb26-66a9-91596720974c",
+    "website": "18-443-statistics-for-applications-fall-2003"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "f591e32b-de75-468b-a8a6-47a92357f5f4",
+  "title": "Course Metadata"
+}
